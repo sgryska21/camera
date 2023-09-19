@@ -55,6 +55,59 @@
     },
     "children": [
         {
+            "type": "Button",
+            "translatedName": "Button",
+            "properties": {
+                "Text": "Picture Taken",
+                "TextColor": "#FFFFFF",
+                "FontSize": 16,
+                "CustomFont": "",
+                "BackgroundColor": "rgba(93, 122, 252, 100)",
+                "Height": 49,
+                "Width": 311,
+                "Visible": true,
+                "X": 31,
+                "Y": 556,
+                "RelativeX": 31,
+                "RelativeY": 556,
+                "ResizeMode": "STRETCH",
+                "style": {
+                    "marginTop": 0,
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "borderRadius": 15,
+                    "shadowColor": "rgba(0, 0, 0, 0)",
+                    "shadowOpacity": 0,
+                    "scaledShadowOpacity": 0,
+                    "shadowRadius": 0,
+                    "shadowOffset": {
+                        "width": 0,
+                        "height": 0
+                    },
+                    "position": "absolute",
+                    "left": "19.06666259765625%",
+                    "top": "81.0141865102605%",
+                    "display": "flex"
+                },
+                "FontBold": false,
+                "FontItalic": false,
+                "Raised": false,
+                "Disabled": false,
+                "ParentId": "ad4e12fb-6b1a-4fad-84aa-245b60969559",
+                "position": "absolute",
+                "edgeOffsets": 556
+            },
+            "children": [],
+            "id": "1d5ef13c-2860-4af9-8936-740ab5a5761b",
+            "thunkableVersion": 421,
+            "name": "Button1"
+        },
+        {
             "type": "Image",
             "translatedName": "Image",
             "properties": {
